@@ -1,8 +1,8 @@
 # DEMO: https://cduc-store.vercel.app/
 
---------------------------------------------------------------------------------------
+------------------------------------------------
 
-# ------------------------ CÁC THƯ VIỆN SƯ DỤNG TRONG PROJECT ------------------------
+# ----- CÁC THƯ VIỆN SƯ DỤNG TRONG PROJECT -----
 
 * Material UI version 4, Prettier Format
 * Axios Client
