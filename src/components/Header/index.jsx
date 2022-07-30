@@ -108,7 +108,7 @@ export default function ButtonAppBar() {
             ></ShoppingCartIcon>
             <Typography variant='h6' className={classes.title}>
               <Link to='/' className={classes.link}>
-                CDUC SHOP
+                CDUC STORE
               </Link>
             </Typography>
 
